@@ -5,7 +5,7 @@ export interface Weather {
     pressure: number;
     humidity: number;
   };
-  wing: {
+  wind: {
     speed: number;
   };
   sys: {
